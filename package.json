@@ -1,11 +1,20 @@
 {
-  "name": "node-examples",
+  "name": "node-http",
   "version": "1.0.0",
   "description": "Simple node examples",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1" ,
+     "start": "node index"
   },
   "author": "K S Lohith",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kslohith/Node-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kslohith/Node-js/issues"
+  },
+  "homepage": "https://github.com/kslohith/Node-js#readme"
 }
